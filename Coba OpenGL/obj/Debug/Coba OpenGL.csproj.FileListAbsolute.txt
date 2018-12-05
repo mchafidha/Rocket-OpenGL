@@ -1,0 +1,24 @@
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.exe
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.OpenGl.dll
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.Platform.Windows.dll
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.OpenGl.xml
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.Platform.Windows.xml
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba_OpenGL.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba_OpenGL.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.exe
+c:\users\dell\documents\visual studio 2015\Projects\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.pdb
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.exe.config
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.exe
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.pdb
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.exe
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\bin\Debug\Coba OpenGL.pdb
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.OpenGl.xml
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\bin\Debug\Tao.Platform.Windows.xml
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.csprojResolveAssemblyReference.cache
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba_OpenGL.Form1.resources
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba_OpenGL.Properties.Resources.resources
+F:\EEPIS\EDF\Github\Coba OpenGL\Coba OpenGL\obj\Debug\Coba OpenGL.csproj.GenerateResource.Cache
